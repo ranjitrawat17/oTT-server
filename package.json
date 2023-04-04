@@ -4,7 +4,7 @@
   "description": "this is my first over the top. Through this project I'm learning some more about Web site Development. So, i can improve my skills. I am developing this app.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon src/app.js",
+    "start": "node src/app.js",
     "build": "npm install"
   },
   "author": "Ranjeet Singh Rawat",
